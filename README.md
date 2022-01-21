@@ -66,7 +66,7 @@
 
 <p align="center">
 <a href="https://linktr.ee/cyber_3g/"><img alt="Website" src="https://img.shields.io/badge/website-linktr.ee/cyber_3g-green"></a>
-<a href="https://linktr.ee/cyber_3g/"><img alt="LinkedIn" src="https://img.shields.io/badge/linktr.ee/cyber_3g-blue"></a>
+<a href="https://wa.me/+1(409)300-0000"><img alt="WhatsApp" src="https://img.shields.io/badge/Wa.me/+1(409)300-0000-blue"></a>
 <a href="https://www.instagram.com/CYBER_3G/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-CYBER_3G-red"></a>
 <a href="https://twitter.com/CYBER_3G"><img alt="Twitter" src="https://img.shields.io/badge/twitter-CYBER_3G-blue"></a>
 </p>
